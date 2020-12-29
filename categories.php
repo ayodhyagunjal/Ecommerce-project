@@ -42,7 +42,7 @@ $res=mysqli_query($con,$sql);
 							   <th class="serial">#</th>
 							   <th>ID</th>
 							   <th>Categories</th>
-							   <th>Status</th>
+							   <th></th>
 							</tr>
 						 </thead>
 						 <tbody>
